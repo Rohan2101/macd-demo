@@ -1,0 +1,16 @@
+Count,Name,Education,Subject,Coding,Job,QF ,Python,Python IDE,JN,WA,FB,T,ML
+1,Anand,MBA,CS,C##,Project lead,None,Basic,Spyder,Basic,30,30,60,NA
+2,Anant,BE,CS,Basic Java,Head capital market,None,Basic,VS,None,60,60,0,2
+3,Antish,BE,CS,Javascript,Software developer,Basic,Basic,VS,Basic,30,60,0,2
+4,Blesson,MBA,Finance,Basic Python,,Basic,Basic,Pycharm,Basic,30,15,0,NA
+5,Thomas,CA,Accouting and fiance,Basic Python,Risk officer,Basic,Basic,Pycharm,Basic,60,10,0,NA
+6,Jaykumar,MSc,Electronics,Basic Python,,None,Basic,Pycharm,None,30,30,0,1
+7,Jitendra,BE,Electronics,Intermediate,Dev Lead,None,Intermediate,Pycharm,Basic,45,15,0,2
+8,Maddy,MS,EE,"C++, Java",Senior Data Scientiest,CF certification,Advance,Pycharm,Advance,20,0,0,NA
+9,Manoj,BE,Mechnical E,Python,Software QA,None,Basic,None,Basic,90,30,60,1
+10,Manusha,"Btech, MBA",Finance,"C++, Java, Python",Equity research analyst,Basic,Basic,Pycharm,Basic,60,15,15,1
+11,Parikshit,MS,Finance,"Python, Matlab",Stock research analyst,Inetmediate,Basic,Pycharm,Basic,30,0,60,0
+12,Pintu,CFA,,python,Derivative analyst,Intermediate,Basic,Pycharm,Basic,30,15,0,NA
+13,Prakhar,MS,Management,Python,Quantitative finance,Intermediate,Basic,Spyder,Basic,20,30,10,4
+14,Shubham,BE,Electronics,"Python, Matlab",Future trader,Basic,Intermediate,Spyder,Basic,30,0,60,3
+15,Vineeth,BE,mechanical E,Python,Design E,None,Basic,Pycharm,Basic,30,10,60,NA
